@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name                            = "candl-lexer",
-    version                         = "0.0.1",
+    version                         = "0.0.3",
     author                          = "Bruce Collie",
     author_email                    = "brucecollie82@gmail.com",
     description                     = "Lexer for the CAnDL DSL",
