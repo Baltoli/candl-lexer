@@ -3,7 +3,7 @@ from pygments.token import *
 
 class CandlLexer(RegexLexer):
     name = 'CAnDL'
-    aliases = []
+    aliases = ['candl', 'idl']
     filenames = ['*.candl', '*.idl']
 
     keywords = [
